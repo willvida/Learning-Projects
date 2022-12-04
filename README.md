@@ -1,21 +1,32 @@
+
 # Learning-Projects
 In this repository I collect most of my learning projects that I have built either as a hobby projects or through various courses.
 
-## OVERVIEW OF PROJECTS:
+##  OVERVIEW OF PROJECTS
 
-----
-#### Camping Grounds
+###  Camping Grounds
 
-**Course:** The Web Developer Bootcamp 2022
+🏕 Yelpcamp is a fully functional NodeJs web app. This is a camping ground website which was developed during a code-along while following the web-developer-bootcamp.
+
+🎓 **Course:** [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/)
+
   
-**Key learnings:** HTML5, CSS3, JavaScript, NodeJS, ExpressJS, MongoDB, Bootstrap, DOM Manipulation, AJAX, Asynchronous JavaScript, REST, Authentication, Authorization
-  Functionality: Search camping grounds...etc TBA
+**🛠 Key learnings:** 
+  * HTML5
+  * CSS
+  * JavaScript
+  * NodeJS
+  * ExpressJS
+  * MongoDB
+  * Bootstrap
+  * DOM Manipulation
+  * AJAX
+  * Asynchronous JavaScript
+  * REST
+  * Authentication
+  * Authorization
+
+TBA LINK TO PROJECT[![project](https://img.shields.io/badge/view_project-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willvida/Learning-Projects/project_name)
+
   
  ----
-  
-  
-  
-
-
-        
-    
