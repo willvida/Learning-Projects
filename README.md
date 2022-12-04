@@ -26,7 +26,7 @@ In this repository I collect most of my learning projects that I have built eith
   * Authentication
   * Authorization
 
-TBA LINK TO PROJECT[![project](https://img.shields.io/badge/view_project-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willvida/Learning-Projects/project_name)
+[![project](https://img.shields.io/badge/view_project-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willvida/YelpCamp)
 
   
  ----
